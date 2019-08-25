@@ -1,2 +1,2 @@
 # Automacao
-Soluções para Sistemas de Automação Industrial contemplando CLP (Controlador Lógico Programável), Rede de Comunicação e Supervisórios
+Soluções para Sistemas de Automação Industrial contemplando CLP, Remotas, Interfaces com Rede de Comunicação e Supervisórios.
