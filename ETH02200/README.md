@@ -3,7 +3,7 @@
 ![IOnet ETH02200](IOnet_ETH02200.png?raw=true "IOnet ETH02200 - Módulo Ethernet, 02 DI e 02 DO")
 
 ## Sobre
-ÉOs módulos ethernet IOnet® permitem a interconexão, monitoração e o acionamento remoto de dispositivos, utilizando conexão ethernet padrão TCP/IP.
+Os módulos ethernet IOnet® permitem a interconexão, monitoração e o acionamento remoto de dispositivos, utilizando conexão ethernet padrão TCP/IP.
 
 São módulos com IOs (Input/Outputs – Entradas e Saídas), que usando qualquer equipamento (PC, Notebook, Tablet, Smartphone, etc.) que disponha de navegador via Web, é possível acessar e realizar a configuração dos módulos ethernet IOnet®, bem como acionar e monitorar as entradas e saídas, em um ambiente amigável.
 
